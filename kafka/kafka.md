@@ -1,7 +1,7 @@
 # Apache Kafka
 
 > 참고: [How Kafka Works](https://newsletter.systemdesign.one/p/how-kafka-works)
-
+//
 ---
 
 ## 1. 도입 배경
